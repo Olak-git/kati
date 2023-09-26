@@ -1,0 +1,1 @@
+export const app_color_main = 'rgb(192,38,211)';
